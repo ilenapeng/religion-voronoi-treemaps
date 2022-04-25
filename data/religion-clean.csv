@@ -1,0 +1,28 @@
+h1,h2,h3,color,weight,codes
+United States,Middle East,Baha'is,#F24971,0.17,Baha'is
+United States,Asia-Buddhist,Buddhists-1,#4BD181,1.12,Mahayanists
+United States,Asia-Buddhist,Buddhists-2,#4BD182,0.16,Theravadins
+United States,Asia-Buddhist,Buddhists-3,#4BD183,0.02,Lamaists
+United States,Asia-Buddhist,Chinese folk-religionists,#71B48D,0.04,Chinese folk-religionists
+United States,Europe,Christians-1,#FFC857,14.07,Unaffiliated Christians - 14.1%
+United States,Europe,Christians-2,#FFC857,2.16,Orthodox - 2.2%
+United States,Europe,Christians-3,#FFC857,22.33,Catholics - 22.3%
+United States,Europe,Christians-4,#FFC857,16.32,Protestants - 16.3%
+United States,Europe,Christians-5,#FFC857,19.27,Independents - 19.3%
+United States,Asia,Daoists,#71B48D,0,Daoists
+United States,Other,Ethnic religionists,#70BAFF,0.35,Ethnic religionists
+United States,Asia-Hindus,Hindus-1,#6ECC60,0.12,Vaishnavites
+United States,Asia-Hindus,Hindus-2,#6ECC61,0.17,Shaivites
+United States,Asia-Hindus,Hindus-3,#6ECC62,0.19,Saktists
+United States,Asia,Jains,#71B48D,0.03,Jains
+United States,Middle East,Jews,#F24968,1.69,Jews - 1.7%
+United States,Middle East-Muslim,Muslims-1,#EF624B,0.89,Sunnis
+United States,Middle East-Muslim,Muslims-2,#EF624B,0.3,Shias
+United States,Middle East-Muslim,Muslims-3,#EF624B,0.2,Islamic schismatics
+United States,Other,New religionists,#70BAFF,0.51,New religionists
+United States,Asia,Shintoists,#71B48D,0.02,Shintoists
+United States,Asia,Sikhs,#71B48D,0.13,Sikhs
+United States,Europe,Spiritists,#FFC857,0.07,Spiritists
+United States,Middle East,Zoroastrians,#F24971,0.01,Zoroastrians
+United States,Other,Agnostics,#70BAFF,16.77,Agnostics - 16.8%
+United States,Other,Atheists,#70BAFF,2.91,Atheists - 2.9%
